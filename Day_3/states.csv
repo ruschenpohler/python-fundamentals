@@ -1,6 +1,6 @@
-state bird,capital,year in union,population,state
-Northern cardinal,Columbus,1803,11.6,Ohio
-,Lansing,1837,9.9,Michigan
-California quail,Sacramento,1850,39.1,California
-,Tallahassee,1834,20.2,Florida
-,Montgomery,1819,4.9,Alabama
+,state,population,year in union,state bird,capital
+0,Ohio,11.6,1803,Northern cardinal,Columbus
+1,Michigan,9.9,1837,,Lansing
+2,California,39.1,1850,,Sacramento
+3,Florida,20.2,1834,,Tallahassee
+4,Alabama,4.9,1819,,Montgomery
